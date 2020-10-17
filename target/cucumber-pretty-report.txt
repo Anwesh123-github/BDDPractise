@@ -1,0 +1,8 @@
+Feature: Homepage Functionality
+
+  @SouthallCalender
+  Scenario: Test calender is clicking or not                [90m# C:/Users/anwes/IdeaProjects/BDDPractise/src/test/Resources/HomePage.feature:26[0m
+    [32mGiven [0m[32mUser is in the homepage of Southall website[0m       [90m# Homepage_SouthallCalender.user_is_in_the_homepage_of_Southall_website()[0m
+    [32mWhen [0m[32mUser clicks on departure calender[0m                  [90m# Homepage_SouthallCalender.user_clicks_on_departure_calender()[0m
+    [32mThen [0m[32mUser should be able to all the dates[0m               [90m# Homepage_SouthallCalender.user_should_be_able_to_all_the_dates()[0m
+    [32mAnd [0m[32mUser should be able to click on one particular date[0m [90m# Homepage_SouthallCalender.user_should_be_able_to_click_on_one_particular_date()[0m

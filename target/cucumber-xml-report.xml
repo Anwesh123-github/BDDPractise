@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="23.200373">
+<testcase classname="Homepage Functionality" name="Test calender is clicking or not" time="23.200373">
+<system-out><![CDATA[Given User is in the homepage of Southall website...........................passed
+When User clicks on departure calender......................................passed
+Then User should be able to all the dates...................................passed
+And User should be able to click on one particular date.....................passed
+]]></system-out>
+</testcase>
+</testsuite>

@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 10459441500,
+  "duration": 12894340700,
   "status": "passed"
 });
 formatter.scenario({
@@ -48,32 +48,32 @@ formatter.match({
   "location": "Homepage_SouthallCalender.user_is_in_the_homepage_of_Southall_website()"
 });
 formatter.result({
-  "duration": 144013500,
+  "duration": 89677400,
   "status": "passed"
 });
 formatter.match({
   "location": "Homepage_SouthallCalender.user_clicks_on_departure_calender()"
 });
 formatter.result({
-  "duration": 145651400,
+  "duration": 122222500,
   "status": "passed"
 });
 formatter.match({
   "location": "Homepage_SouthallCalender.user_should_be_able_to_all_the_dates()"
 });
 formatter.result({
-  "duration": 25300,
+  "duration": 46900,
   "status": "passed"
 });
 formatter.match({
   "location": "Homepage_SouthallCalender.user_should_be_able_to_click_on_one_particular_date()"
 });
 formatter.result({
-  "duration": 10250064900,
+  "duration": 10094072500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 71100,
+  "duration": 12600,
   "status": "passed"
 });
 });
