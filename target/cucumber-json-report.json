@@ -1,0 +1,98 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12894340700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "Test calender is clicking or not",
+        "description": "",
+        "id": "homepage-functionality;test-calender-is-clicking-or-not",
+        "after": [
+          {
+            "result": {
+              "duration": 12600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.teardown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 89677400,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User is in the homepage of Southall website",
+            "match": {
+              "location": "Homepage_SouthallCalender.user_is_in_the_homepage_of_Southall_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 122222500,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User clicks on departure calender",
+            "match": {
+              "location": "Homepage_SouthallCalender.user_clicks_on_departure_calender()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 46900,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User should be able to all the dates",
+            "match": {
+              "location": "Homepage_SouthallCalender.user_should_be_able_to_all_the_dates()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 10094072500,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "User should be able to click on one particular date",
+            "match": {
+              "location": "Homepage_SouthallCalender.user_should_be_able_to_click_on_one_particular_date()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 24,
+            "name": "@SouthallCalender"
+          }
+        ]
+      }
+    ],
+    "name": "Homepage Functionality",
+    "description": "",
+    "id": "homepage-functionality",
+    "keyword": "Feature",
+    "uri": "C:/Users/anwes/IdeaProjects/BDDPractise/src/test/Resources/HomePage.feature"
+  }
+]
